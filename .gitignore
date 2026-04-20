@@ -2,3 +2,9 @@ new_signal/
 signal_legacy/
 .emdash.json
 .claude/
+migrate/legacy_data/
+.env
+
+migrate/*.json
+migrate/*.db
+migrate/tasks/
