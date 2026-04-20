@@ -1,4 +1,4 @@
-new_signal
-signal_legacy
+new_signal/
+signal_legacy/
 .emdash.json
 .claude/
